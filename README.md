@@ -1,0 +1,1 @@
+EKart Shopping is a Java-based e-commerce web application developed using JSP, Servlets, and MySQL. The project demonstrates web application development, product management, and database connectivity.
